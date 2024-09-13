@@ -1,6 +1,6 @@
 # Capstone_Project
 
-1. Login and Registration Form2.
+1. Login and Registration Form
 2. CRUD Application
 
 ## Tech Stacks: -
