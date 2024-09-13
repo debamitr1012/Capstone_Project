@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreateReadUpdateDeleteProject", "CreateReadUpdateDeleteProject\CreateReadUpdateDeleteProject.csproj", "{7253C4BB-80D4-415D-AB3A-D0DDA2EE3698}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoginRegistrationForm", "LoginRegistrationForm\LoginRegistrationForm.csproj", "{FB1E6FCA-875D-4547-AC79-46A155183E9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7253C4BB-80D4-415D-AB3A-D0DDA2EE3698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7253C4BB-80D4-415D-AB3A-D0DDA2EE3698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7253C4BB-80D4-415D-AB3A-D0DDA2EE3698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7253C4BB-80D4-415D-AB3A-D0DDA2EE3698}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB1E6FCA-875D-4547-AC79-46A155183E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB1E6FCA-875D-4547-AC79-46A155183E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB1E6FCA-875D-4547-AC79-46A155183E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB1E6FCA-875D-4547-AC79-46A155183E9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD9BF7C6-D8DD-4328-9756-71947097C0FA}
+	EndGlobalSection
+EndGlobal
