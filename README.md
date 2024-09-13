@@ -1,5 +1,8 @@
 # Capstone_Project
 
+1. Login and Registration Form2.
+2. CRUD Application
+
 ## Tech Stacks: -
 •	Frontend: C# .Net
 
